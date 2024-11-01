@@ -14,8 +14,7 @@ This project focuses on developing machine learning models to classify breast ca
 - [Model Outcomes](#model-outcomes)
 - [Visualizations](#visualizations)
 - [Conclusion](#conclusion)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Project Overview
 
