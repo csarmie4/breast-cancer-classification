@@ -47,6 +47,7 @@ To set up the project, clone this repository and install the required dependenci
 git clone https://github.com/yourusername/Breast_Cancer_Classification.git
 cd Breast_Cancer_Classification
 pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -54,6 +55,7 @@ To run the project, execute the `main.py` script:
 
 ```bash
 python main.py
+```
 
 The script performs the following steps:
 
